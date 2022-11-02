@@ -1,4 +1,5 @@
-<h2>Submission Todo Apps</h2>
+## Perpustakaan Mini Apps
 
-<p>file berisi dokumentasi dari todoList "perpustakaan mini"</p>
-<p>Kamu bisa lihat <a href="https://perpustakaan-mini.vercel.app/" target="_blank">disini</a></p>
+
+Aplikasi ini menggunakan vanila JavaScript dan pure CSS.<br>
+Kamu bisa lihat [disini](https://perpustakaan-mini.vercel.app/)
